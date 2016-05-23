@@ -1,3 +1,4 @@
+
 # Assignment
 
 ##MySQL
@@ -18,7 +19,7 @@
 
 **Test file: mysql_assignment3_test_proc_to_split.sql**
 
-4) I have a table for bugs from a bug tracking software; let‚Äôs call the table ‚Äúbugs‚Äù. The table has four columns (id, open_date, close_date, severity). On any given day a bug is open if the open_date is on or before that day and close_date is after that day. For example, a bug is open on ‚Äú2012-01-01‚Äù, if it‚Äôs created on or before ‚Äú2012-01-01‚Äù and closed on or after ‚Äú2012-01-02‚Äù. I want a SQL to show number of bugs open for a range of dates.
+4) I have a table for bugs from a bug tracking software; letís call the table ìbugsî. The table has four columns (id, open_date, close_date, severity). On any given day a bug is open if the open_date is on or before that day and close_date is after that day. For example, a bug is open on ì2012-01-01î, if itís created on or before ì2012-01-01î and closed on or after ì2012-01-02î. I want a SQL to show number of bugs open for a range of dates.
 
 **Solution file: mysql_assignment4_bugs_query.sql**
 
@@ -37,7 +38,7 @@
 **Test file: ComplementaryPairTest.java**
 
 3) Given a large file that does not fit in memory (say 10GB), find the top 100000 most frequent phrases. The file has 50 phrases per line separated by a pipe (|). Assume that the phrases do not contain pipe.
-Example line may look like: Foobar Candy | Olympics 2012 | PGA | CNET | Microsoft Bing ‚Ä¶.
+Example line may look like: Foobar Candy | Olympics 2012 | PGA | CNET | Microsoft Bing Ö.
 The above line has 5 phrases in visible region.
 
 **Solution file: ReadPhrase.java**
